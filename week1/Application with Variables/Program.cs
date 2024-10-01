@@ -31,7 +31,7 @@ namespace YENI
 
             //son aldıgım ürünleri int veri tipini kullandım cünkü benden ilk aldıgım ve son aldıgım urunlerin toplamını ve kazandıgım puanı istediği için bunları bir string ifade olarak yazamıcagım icin int olarak yazdım.
 
-            Console.Write("Ilk aldigi Ürünün Fiyati: "); 
+            Console.Write("Ilk aldigi Ürünün Fiyati: ");
             int buy1 = int.Parse(Console.ReadLine()); // Kullanıcının girdiği değeri okur ve int'e dönüştürerek buy1 değişkenine atar
 
             Console.Write("Ikinci Aldigi Ürünün Fiyati: ");
@@ -44,6 +44,7 @@ namespace YENI
             Console.WriteLine($"{number} telefon numarasina bildirim mesaji gonderilmistir");
 
             int toplam = buy1 + buy2;
+
             double puan = toplam * 0.10;
 
             Console.WriteLine($"{toplam} toplam harcama karşılığı kazanılan %10 patika puan miktarı -> {puan} TL'dir.");
