@@ -1,21 +1,29 @@
 # Patika-Bootcamp-Backend
 
-Merhaba!
+[TR]Merhaba
 
-Bu projede, Patika+ Bootcamp'te bulunma nedenimi bir C# konsol uygulaması ile ifade eden basit bir program oluşturdum.
+[EN]Hello
 
-## Proje Açıklaması
+[TR] Bu projede, Patika+ Bootcamp'te bulunma nedenimi bir C# konsol uygulaması ile ifade eden basit bir program oluşturdum.
+
+[EN] In this project, I created a simple C# console application that expresses why I am attending the Patika+ Bootcamp.
+
+## Proje Açıklaması        //        Project Description
 
 Bu uygulama, bir C# konsol programı olup, kullanıcıya adımı ve Patika'nın sağladığı eğitim ve network sayesinde hedeflerimi yazdırıyor.
 
-### Kullanılan Teknolojiler
+This application is a C# console program that prints my name and my goals, which I aim to achieve through the education and network provided by Patika.
+
+### Kullanılan Teknolojiler  //  Technologies Used
 
 - C#
 - .NET SDK
 
-## Kod
+## Kod  // Code
 
 Aşağıda, uygulamada kullanılan C# kodu bulunmaktadır:
+
+Below is the C# code used in the application:
 
 ```csharp
 using System;
