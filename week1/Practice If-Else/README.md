@@ -18,6 +18,7 @@ This project contains a simple C# program that checks whether the number entered
 ## Kodun Çıktısı /  The output of the code
 ```csharp
 Lutfen bir sayi giriniz: 22
+Girilen sayi 10'dan büyüktür.
 Girdiginiz sayi cifttir.
 
 
