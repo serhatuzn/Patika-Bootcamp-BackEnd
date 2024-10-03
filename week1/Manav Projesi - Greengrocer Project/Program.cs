@@ -66,3 +66,61 @@ namespace sss
     }
 }
 
+
+
+
+
+// bu kodun aynısını if else kullanarak da yapabiliriz örnek kod aşağıda 
+
+//using System;
+//using System.Data;
+
+//namespace sss
+//{
+  //class Program
+  //{
+    //static void Main(string[] args)
+    //{
+      //Console.WriteLine("Rüya Manavına Hoşgeldiniz!");
+
+      //int elma = 2;
+      //int armut = 3;
+      //int çilek = 2;
+      //int muz = 3;
+      //int dıgerurn = 4;
+
+      //Console.WriteLine("Elma = 2 TL");
+      //Console.WriteLine("Armut = 3 TL");
+      //Console.WriteLine("Çilek = 2 TL");
+      //Console.WriteLine("Muz = 3 TL");
+      //Console.WriteLine("Diğer bütün meyveler = 4 TL");
+      //Console.WriteLine();
+
+      //Console.Write("hangi meyveyi saatın almak istersiniz? (elma/armut/çilek/muz/diğer): ");
+      //string secim = Console.ReadLine().ToLower();
+
+      //int  fiyat = 0;
+      //if(secim == "elma")
+      //{
+       // fiyat = elma;
+     // }
+      //else if(secim == "armut")
+     // {
+        //fiyat = armut;
+      //}
+      //else if(secim == "çilek" || secim == "cilek")
+      //{
+       // fiyat = çilek;
+      //}
+      //else if(secim == "muz")
+   // {
+       // fiyat = muz;
+     // }
+      //else
+     // {
+        //fiyat = dıgerurn;
+     // }
+     // Console.WriteLine($"Seçtiğiniz meyvenin fiyatı: {fiyat} TL");
+    //}
+  //}
+//}
